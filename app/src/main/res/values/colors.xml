@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#ff1744</color>
+    <color name="colorGrey">#757575</color>
+    <color name="colorSoftGrey">#E6E2E2</color>
+    <color name="colorTransparant">#4D00b0ff</color>
+
+    <!--color untuk gradient tansition-->
+    <color name="purple_500">#e91e63</color>
+    <color name="deep_purple_500">#9c27b0</color>
+    <color name="indigo_500">#f44336</color>
+    <color name="blue_500">#cddc39</color>
+    <color name="cyan_500">#ffeb3b</color>
+    <color name="light_blue_500">#ffc107</color>
+</resources>
